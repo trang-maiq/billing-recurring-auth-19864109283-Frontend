@@ -1,0 +1,69 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Join us for TechMeetUp, the latest in the Technical Sharing series! Don’t miss out on this opportunity!",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "desiredOutcome": "Fostering connections and seamless information sharing",
+        "painPoints": "Sharing knowledge effortlessly and effectively",
+        "subtitle": "Unlock the power of shared knowledge with our easy-to-use, inspirational platform. Connect with others, learn effortlessly, and expand your horizons.",
+        "title": "Share and Grow: Your Knowledge World",
+        "uniqueFeature": "Accessible, user-friendly learning platform"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empowering You with Technical Knowledge and Innovative Ideas",
+        "title": "Yay: Innovate, Share, Inspire"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empowering You with Technical Knowledge and Innovative Ideas",
+        "title": "Yay: Innovate, Share, Inspire"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering You with Technical Knowledge and Innovative Ideas",
+        "title": "Yay: Innovate, Share, Inspire"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empowering You with Technical Knowledge and Innovative Ideas",
+        "title": "Yay: Innovate, Share, Inspire"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Join our Technical Sharing newsletter to stay inspired with cutting-edge industry tech knowledge, exclusive content, and early access to new products.",
+        "emailLabel": "Your Email Address",
+        "heading": "Unlock a World of Tech Insights!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering You with Technical Knowledge and Innovative Ideas",
+        "title": "Yay: Innovate, Share, Inspire"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Innovate, Share, Inspire",
+  "subtitle": "Empowering You with Technical Knowledge and Innovative Ideas"
+}
